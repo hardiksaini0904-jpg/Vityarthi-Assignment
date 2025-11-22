@@ -1,5 +1,5 @@
 # Write a function factorial(n) that calculates the factorial of a non-negative integer n (n!).
-# SOUBHAGYA KUMAR BEHURA (25BAI10757)  
+# HARDIK SAINI (25BCE10544)  
 import time
 n=int(input("enter a number:"))
 start= time.time()
@@ -140,3 +140,4 @@ print("is_palindrome =",pal)
 print("mean_of_digits =",mean)
 print("digital_root =",dr)
 print("is_abundant =",abundant)
+
